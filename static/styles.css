@@ -1,0 +1,21 @@
+body {
+
+    background-color: #e0e0e0;
+    color: black;
+   
+}
+p {
+
+    color: black;
+
+}
+
+#intro {
+    color: black;
+    background-color: darksalmon;
+    background-size: 10px;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    text-shadow: 2px 2px 4px;
+}
