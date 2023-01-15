@@ -19,3 +19,9 @@ p {
     text-align: center;
     text-shadow: 2px 2px 4px;
 }
+
+.navBar {
+    background-color: black;   
+    color: #e0e0e0;
+    text-align: center;
+}
