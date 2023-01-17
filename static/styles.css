@@ -4,11 +4,6 @@ body {
     color: black;
    
 }
-p {
-
-    color: black;
-
-}
 
 #intro {
     color: black;
@@ -28,4 +23,10 @@ p {
 
 #top {
     background-color: black;
+}
+
+#bio {
+    text-align: center;
+    color: black;
+    text-shadow: 2px 2px 4px;
 }
