@@ -48,3 +48,12 @@ body {
   .img1{
     image-orientation: 0;
   }
+
+  .projects{
+    color: black;
+    text-shadow: 1px 1px 2px;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 20px;
+    font-size: 15px;
+  }
