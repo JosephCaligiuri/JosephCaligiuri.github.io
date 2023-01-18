@@ -29,8 +29,10 @@ body {
   .intro{
     color: black;
     text-shadow: 1px 1px 2px;
-    text-align: center;
+    text-align: left;
     padding-top: 50px;
+    padding-left: 20px;
+    font-size: 20px;
   }
   
   .topnav a:hover {
@@ -39,7 +41,7 @@ body {
   }
   
   .topnav a.active {
-    background-color: lightblue;
+    background-color: #86409c;
     color: white;
   }
 
