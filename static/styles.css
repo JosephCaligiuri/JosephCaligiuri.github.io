@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url(./background2.jpeg);
     padding-top: 30px;
     background-size: 100%;
@@ -32,8 +32,9 @@ body {
     text-shadow: 1px 1px 2px;
     text-align: left;
     padding-top: 35px;
-    padding-left: 140px;
+    padding-left: 125px;
     font-size: 20px;
+    line-height: 100%;
   }
   
   .topnav a:hover {
@@ -57,4 +58,14 @@ body {
     padding-top: 50px;
     padding-left: 20px;
     font-size: 15px;
+  }
+
+  .intro2{
+    color: black;
+    text-shadow: 1px 1px 2px;
+    text-align: left;
+    padding-top: 35px;
+    padding-left: 125px;
+    font-size: 20px;
+    line-height: 130%;
   }
