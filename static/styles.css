@@ -1,7 +1,7 @@
 .index {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url(./Index.jpeg);
+    background-image: url(./index.jpeg);
     padding-top: 30px;
     background-size: 100%;
     background-position: 0px 30px;    
@@ -23,7 +23,7 @@
 .resume {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url(./Resume.jpeg);
+    background-image: url(./background.jpeg);
     padding-top: 30px;
     background-size: 100%;
     background-position: 0px 30px;    
@@ -94,4 +94,10 @@
 
   .PNG{
     text-align: center;
+  }
+
+  .skills{
+    color: #333;
+    text-align: center;
+    text-shadow: 2px, 2px, 3px;
   }
