@@ -3,7 +3,6 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url(./Index.jpeg);
     padding-top: 30px;
-    background-size: 100%;
     background-position: 0px 30px;    
     background-repeat: no-repeat;
     
@@ -14,7 +13,6 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url(./Projects.jpeg);
     padding-top: 30px;
-    background-size: 100%;
     background-position: 0px 30px;    
     background-repeat: no-repeat;
     
@@ -25,7 +23,6 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url(./background.jpeg);
     padding-top: 30px;
-    background-size: 100%;
     background-position: 0px 30px;    
     background-repeat:repeat-y;
     
