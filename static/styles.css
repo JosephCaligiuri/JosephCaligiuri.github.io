@@ -118,3 +118,15 @@
     padding-left: 570px;
     padding-bottom: 3px;
   }
+
+  .number{
+    text-align: left;
+  }
+
+  .slide{
+    text-align: center;
+  }
+
+  .container{
+    position: relative;
+  }
