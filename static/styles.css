@@ -1,7 +1,7 @@
 .index {
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: url(./Index.jpeg);
+    background-image: url(./index2.jpeg);
     padding-top: 30px;
     background-position: 0px 30px;    
     background-repeat: no-repeat;
@@ -84,7 +84,7 @@
     text-shadow: 1px 1px 2px;
     text-align: left;
     padding-top: 35px;
-    padding-left: 125px;
+    padding-left: 90px;
     font-size: 20px;
     line-height: 130%;
   }
