@@ -121,7 +121,6 @@
 
   .number{
     text-align: left;
-    left: 11%;
   }
 
   .slide{
@@ -131,8 +130,6 @@
 
   .container{
     position: relative;
-    
-    
   }
 
   * {
@@ -147,7 +144,7 @@
   .next {
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 40%;
     width: auto;
     padding: 16px;
     margin-top: -50px;
@@ -157,23 +154,17 @@
     border-radius: 0 3px 3px 0;
     user-select: none;
     -webkit-user-select: none;
-    background-color: #f2f2f2;
 
   }
 
   .next {
-    right: 10%;
+    right: 0;
     border-radius: 3px 0 0 3px;
-  }
-
-  .prev{
-    left: 10%;
   }
 
   .prev:hover,
   .next:hover {
     background-color: rgba(0, 0, 0, 0.8);
-    color:#f2f2f2;
   }
 
   .number {
@@ -182,7 +173,6 @@
     padding: 8px 12px;
     position: absolute;
     top: 0;
-    background-color: #222;
   }
 
   .caption-container {
